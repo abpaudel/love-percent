@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="Love_Percent_WP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Love_Percent_WP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFF900D7" Offset="1"/>
+                <GradientStop Color="Black"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Love Percent" Margin="12,0"/>
+        </StackPanel>
+        <TextBox x:Name="name1" HorizontalAlignment="Left" Height="45" Margin="49,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="22" />
+        <TextBox x:Name="name2" HorizontalAlignment="Left" Height="46" Margin="49,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="299" FontSize="22" />
+        <Button x:Name="calculate" Content="Calculate" HorizontalAlignment="Left" Height="70" Margin="124,217,0,0" VerticalAlignment="Top" Width="155" Click="calculate_Click" FontSize="24" Background="#FFFF0068"/>
+        <TextBlock HorizontalAlignment="Left" Height="48" Margin="51,38,0,0" TextWrapping="Wrap" Text="Your Name:" VerticalAlignment="Top" Width="277" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Height="48" Margin="53,128,0,0" TextWrapping="Wrap" Text="Partner's Name:" VerticalAlignment="Top" Width="277" FontSize="24"/>
+        <Image HorizontalAlignment="Left" Margin="-73,268,-66,10" Width="539" Source="Assets/love-heart.png" Stretch="Fill"/>
+        <TextBlock x:Name="result" HorizontalAlignment="Left" Height="139" Margin="0,376,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400" FontSize="120" Visibility="Visible" TextAlignment="Center"/>
+
+
+    </Grid>
+</Page>

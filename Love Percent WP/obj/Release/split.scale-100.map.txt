@@ -1,0 +1,12 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\split.scale-100.pri"			"resources.pri"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\Wide310x150Logo.scale-100.png"			"Assets\Wide310x150Logo.scale-100.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\StoreLogo.scale-100.png"			"Assets\StoreLogo.scale-100.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-100.png"			"Assets\Square71x71Logo.scale-100.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\Square44x44Logo.scale-100.png"			"Assets\Square44x44Logo.scale-100.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\Square150x150Logo.scale-100.png"			"Assets\Square150x150Logo.scale-100.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"

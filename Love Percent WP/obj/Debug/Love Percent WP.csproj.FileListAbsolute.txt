@@ -1,0 +1,32 @@
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Debug\App.xbf
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Debug\MainPage.xbf
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Debug\Love Percent WP.xr.xml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Debug\Love Percent WP.exe
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Debug\Love Percent WP.pdb
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Debug\resources.pri
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Debug\AppxManifest.xml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Debug\Love Percent WP.build.appxrecipe
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\App.g.i.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\App.g.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\MainPage.g.i.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\MainPage.g.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\XamlTypeInfo.g.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\App.xaml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\App.xbf
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\XamlSaveStateFile.xml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\MainPage.xaml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\MainPage.xbf
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\Love Percent WP.exe
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\Love Percent WP.pdb
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\priconfig.xml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\priconfig.xml.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\layout.resfiles
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\layout.resfiles.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\resources.resfiles
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\resources.resfiles.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\pri.resfiles
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\pri.resfiles.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\qualifiers.txt
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\qualifiers.txt.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Debug\ProjectArchitectures.txt

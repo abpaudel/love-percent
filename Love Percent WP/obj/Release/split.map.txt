@@ -1,0 +1,16 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\split.pri"			"resources.pri"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Love Percent WP.xr.xml"			"Love Percent WP.xr.xml"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\love-heart.png"			"Assets\love-heart.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\PackageLayout\App.xbf"			"App.xbf"

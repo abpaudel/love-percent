@@ -1,0 +1,32 @@
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Release\App.xbf
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Release\MainPage.xbf
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Release\Love Percent WP.xr.xml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Release\Love Percent WP.exe
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Release\Love Percent WP.pdb
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Release\resources.pri
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Release\AppxManifest.xml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\bin\Release\Love Percent WP.build.appxrecipe
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\App.g.i.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\App.g.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\MainPage.g.i.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\MainPage.g.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\XamlTypeInfo.g.cs
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\App.xaml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\MainPage.xaml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\App.xbf
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\MainPage.xbf
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\XamlSaveStateFile.xml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\Love Percent WP.exe
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\Love Percent WP.pdb
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\priconfig.xml
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\priconfig.xml.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\layout.resfiles
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\layout.resfiles.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\resources.resfiles
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\resources.resfiles.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\pri.resfiles
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\pri.resfiles.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\qualifiers.txt
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\qualifiers.txt.intermediate
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\MultipleQualifiersPerDimensionFound.txt
+d:\documents\visual studio 2013\Projects\Love Percent WP\Love Percent WP\obj\Release\ProjectArchitectures.txt

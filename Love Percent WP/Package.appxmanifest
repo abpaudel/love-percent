@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+  <Identity Name="44768AbhishekPaudel.LovePercent" Publisher="CN=A5CD56AD-BB34-4BDF-BA60-B0D2F76A2D9B" Version="1.1.0.3" />
+  <mp:PhoneIdentity PhoneProductId="f9103e16-b57d-4b5c-8e32-a539d1c7ebee" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>Love Percent</DisplayName>
+    <PublisherDisplayName>Abhishek Paudel</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Love_Percent_WP.App">
+      <m3:VisualElements DisplayName="Love Percent" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Want to know how much love exists between you and your partner? Try out this entertaining app that calculates love percentage from your and your partner's name." ForegroundText="light" BackgroundColor="#ff0000">
+        <m3:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square71x71Logo="Assets\Square71x71Logo.png">
+          <m3:ShowNameOnTiles>
+            <m3:ShowOn Tile="square150x150Logo" />
+            <m3:ShowOn Tile="wide310x150Logo" />
+          </m3:ShowNameOnTiles>
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#ff0000" />
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+</Package>
